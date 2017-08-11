@@ -200,7 +200,6 @@ PLATFORMS
 DEPENDENCIES
   forty_jekyll_theme!
   github-pages!
-  jekyll!
   jekyll-theme-midnight!
 
 BUNDLED WITH
