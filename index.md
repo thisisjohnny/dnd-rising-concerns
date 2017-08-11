@@ -24,7 +24,7 @@ What happens when five young dwarves graduate from training and leave the citade
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
