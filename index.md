@@ -12,7 +12,7 @@ What happens when five young dwarves graduate from training and leave the citade
 - **Artina**: _A cleric with a soft spot for trolls._
   - Artina may be soft-spoken, but her piety makes her a powerful conduit for the gods and both their healing and destructive powers.
 - **Berend**: _A raw ass fighter with a penchant for debauchery._
-  - Berend likes three things most in this world: his women, his brews, and liberally applying sharp steel his enemies' skulls.
+  - Berend likes three things most in this world: his women, his brews, and liberally applying sharp steel to his enemies' skulls.
 - **Vondal**: _A woke AF paladin._
   - Vondal "The Woke" spreads his message of equality across the land using equal parts charisma and brutal, divine justice.
 
