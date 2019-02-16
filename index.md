@@ -19,6 +19,7 @@ What happens when five young dwarves graduate from training and leave the citade
 ## GFOGs – Good friends of the gang
 - **Klug**
 - **Talon Greenthorn**
+- **Dain Fireforge**
 
 ## Session Notes
 <ul>
